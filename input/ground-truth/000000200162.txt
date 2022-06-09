@@ -1,0 +1,9 @@
+train 3.82 155.67 574.94 339.04
+traffic-light 95.47 1.3 136.24 64.21
+traffic-light 310.28 1.39 347.33 58.76
+traffic-light 404.11 1.98 449.99 97.16
+traffic-light 316.93 53.94 341.9 79.63
+traffic-light 483.77 4.2 515.25 40.93
+traffic-light 249.39 0.25 292.93 83.61
+traffic-light 211.73 164.13 220.18 178.62
+traffic-light 495.66 50.52 511.09 67.35
