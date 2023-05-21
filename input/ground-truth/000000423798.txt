@@ -1,7 +1,0 @@
-traffic-light 56.81 148.85 78.38 176.9
-traffic-light 115.36 191.33 130.19 211.45
-traffic-light 284.66 181.03 290.03 196.96
-traffic-light 48.79 150.84 64.16 191.38
-traffic-light 343.78 230.87 351.47 240.37
-traffic-light 455.73 228.33 463.85 239.47
-traffic-light 356.59 231.26 363.27 239.8
