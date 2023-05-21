@@ -7,7 +7,8 @@ import argparse
 # then replace spaces with delimiters inside ground-truth/ and predicted/
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-d', '--delimiter', type=str, help="delimiter to replace space (default: '-')", default='-')
+# parser.add_argument('-d', '--delimiter', type=str, help="delimiter to replace space (default: '-')", default='-')
+parser.add_argument('-d', '--delimiter', type=str, help="delimiter to replace space (default: '')", default='')
 parser.add_argument('-y', '--yes', action='store_true', help="force yes confirmation on yes/no query (default: False)", default=False)
 args = parser.parse_args()
 
